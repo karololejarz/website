@@ -16,7 +16,7 @@
 
 .row { display: -ms-flexbox; display: flex; -ms-flex-pack: center; justify-content: center; }
 
-#portfolio-card-row .card { height: 400px; max-width: 400px; }
+#portfolio-card-row .card { height: 400px; margin: 10px; max-width: 400px; }
 
 #portfolio-card-row img { max-height: 186.07px; max-width: 400px; }
 
